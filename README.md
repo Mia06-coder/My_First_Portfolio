@@ -83,3 +83,10 @@ Created `tweets.html`:
 - Added navigation link to return to `index.html`
 
 Also updated `index.html` with a link to `tweets.html` for easy navigation.
+
+### Task 3 - Make a cool website
+
+- Updated both `index.html` and `tweets.html` to use consistent layout:
+  - `<header>` with navigation links
+  - `<main>` with `<article>` and `<aside>`
+  - `<footer>` with personal credit
