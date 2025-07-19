@@ -74,3 +74,12 @@ Created `index.html` by copying from `base_index.html`. Added:
 - Headings (h1, h2, h3)
 - Four paragraphs of descriptive content
 - Clickable ALX logo image linking to the ALX Africa website
+
+### Task 2 - Make a cool other webpage
+
+Created `tweets.html`:
+
+- Embedded a real tweet using Twitter’s embed code
+- Added navigation link to return to `index.html`
+
+Also updated `index.html` with a link to `tweets.html` for easy navigation.
