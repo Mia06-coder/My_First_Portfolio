@@ -66,3 +66,11 @@ To ensure HTML is valid, run it through:
 ### Task 0 - Basic Structure
 
 Created a valid HTML5 document in `base_index.html` with a DOCTYPE, `<head>` (including `<title>`), and an empty `<body>`. The file passes W3C validation with no errors.
+
+### Task 1 - Make a cool first webpage
+
+Created `index.html` by copying from `base_index.html`. Added:
+
+- Headings (h1, h2, h3)
+- Four paragraphs of descriptive content
+- Clickable ALX logo image linking to the ALX Africa website
