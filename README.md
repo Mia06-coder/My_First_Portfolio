@@ -86,7 +86,13 @@ Also updated `index.html` with a link to `tweets.html` for easy navigation.
 
 ### Task 3 - Make a cool website
 
-- Updated both `index.html` and `tweets.html` to use consistent layout:
-  - `<header>` with navigation links
-  - `<main>` with `<article>` and `<aside>`
-  - `<footer>` with personal credit
+Updated both `index.html` and `tweets.html` to use consistent layout:
+
+- `<header>` with navigation links
+- `<main>` with `<article>` and `<aside>`
+- `<footer>` with personal credit
+
+### Task 4 - Add some level of creativity
+
+Added a table of learners with name, age, and country inside the `<article>` of `index.html`.
+Used semantic tags `<table>`, `<thead>`, `<tbody>` for better structure.
