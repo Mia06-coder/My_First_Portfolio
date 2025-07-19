@@ -96,3 +96,9 @@ Updated both `index.html` and `tweets.html` to use consistent layout:
 
 Added a table of learners with name, age, and country inside the `<article>` of `index.html`.
 Used semantic tags `<table>`, `<thead>`, `<tbody>` for better structure.
+
+### Task 5 - Build a Personal Portfolio Webpage
+
+- Created a semantic and accessible portfolio in `portfolio/index.html`
+- Includes header, navigation, and sections for Introduction, Projects, About Me, and Contact
+- All links and email are functional and styled using semantic HTML
